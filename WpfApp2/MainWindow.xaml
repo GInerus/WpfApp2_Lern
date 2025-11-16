@@ -19,9 +19,8 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
             <ColumnDefinition/>
-            <ColumnDefinition/>
         </Grid.ColumnDefinitions>
 
-        <TextBlock Grid.Row="0" Grid.Column="0" Text="Тестовая надпись 2"/>
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Тестовая надпись"/>
     </Grid>
 </Window>
