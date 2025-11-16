@@ -22,6 +22,6 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
 
-        <TextBlock Grid.Row="0" Grid.Column="0" Text="Тестовая надпись"/>
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Тестовая надпись 2"/>
     </Grid>
 </Window>
